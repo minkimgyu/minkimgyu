@@ -6,7 +6,7 @@
 
 ### 🚀 Solved Rank 🚀
 <br/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=realm_eal)](https://solved.ac/realm_eal/)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=realm_eal)](https://solved.ac/realm_eal/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkimgyu&layout=compact)
 
