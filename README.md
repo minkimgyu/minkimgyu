@@ -19,9 +19,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus"/>
   <img src="https://img.shields.io/badge/-C%23-000000?style=for-the-badge&logo=Csharp">
-  <img src="https://img.shields.io/badge/-C%23-000000?style=for-the-badge&logo=Csharp">
-
-
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </div>
 
 </br>
