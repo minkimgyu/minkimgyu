@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-🚀 Solved Rank 🚀
+### 🚀 Solved Rank 🚀
 <br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=realm_eal)](https://solved.ac/realm_eal/)
 
