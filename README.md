@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=gyu's%20Github&fontSize=82)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=meal's%20Github&fontSize=82)
 
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
