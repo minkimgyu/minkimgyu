@@ -21,19 +21,12 @@
 
 </br>
 
-### 💬 Main Language 💬
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkimgyu&layout=compact)
-
-
-</br>
-
 ### 🚀 Solved Rank 🚀
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=realm_eal)](https://solved.ac/realm_eal)
 
 </br>
 
 ### 📝 Stats 📝
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkimgyu)](https://github.com/minkimgyu/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkimgyu)](https://github.com/minkimgyu/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkimgyu&layout=donut) 
 
 </div>
