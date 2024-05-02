@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=meal's%20Github&desc=Hello%20capsule%20render&fontSize=82)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=meal's%20Github&fontSize=82)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=realm_eal)](https://solved.ac/realm_eal/)
 
