@@ -27,6 +27,6 @@
 </br>
 
 ### 📝 Stats 📝
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkimgyu)](https://github.com/minkimgyu/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkimgyu&layout=donut) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkimgyu&include_all_commits=true&count_private=true&line_height=20)](https://github.com/minkimgyu/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkimgyu&layout=compact) 
 
 </div>
