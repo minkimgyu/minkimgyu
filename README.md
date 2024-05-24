@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Meal's%20Github&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Gyu's%20Github&fontSize=70)
 
 
 ### 안녕하세요. 오늘보다 발전된 내일을 꿈꾸는 클라이언트 개발자입니다.
